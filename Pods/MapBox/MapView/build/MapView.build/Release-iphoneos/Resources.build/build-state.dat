@@ -1,0 +1,364 @@
+TResources
+v5
+r1
+cCheck dependencies
+cCopyPNGFile /Users/evan/Development/iOS/MapBoxExample/Pods/MapBox/MapView/../../Resources/MapBox.bundle/mapbox.png Map/../Map/Resources/mapbox.png
+cCopyPNGFile /Users/evan/Development/iOS/MapBoxExample/Pods/MapBox/MapView/../../Resources/MapBox.bundle/mapbox@2x.png Map/../Map/Resources/mapbox@2x.png
+cCopyPNGFile /Users/evan/Development/iOS/MapBoxExample/Pods/MapBox/MapView/../../Resources/MapBox.bundle/HeadingAngleSmall.png Map/../Map/Resources/HeadingAngleSmall.png
+cCopyPNGFile /Users/evan/Development/iOS/MapBoxExample/Pods/MapBox/MapView/../../Resources/MapBox.bundle/HeadingAngleSmall@2x.png Map/../Map/Resources/HeadingAngleSmall@2x.png
+cCopyPNGFile /Users/evan/Development/iOS/MapBoxExample/Pods/MapBox/MapView/../../Resources/MapBox.bundle/LoadingTileZoom.png Map/../Map/Resources/LoadingTileZoom.png
+cCopyPNGFile /Users/evan/Development/iOS/MapBoxExample/Pods/MapBox/MapView/../../Resources/MapBox.bundle/LoadingTile.png Map/../Map/Resources/LoadingTile.png
+cCopyPNGFile /Users/evan/Development/iOS/MapBoxExample/Pods/MapBox/MapView/../../Resources/MapBox.bundle/TrackingDot.png Map/../Map/Resources/TrackingDot.png
+cCopyPNGFile /Users/evan/Development/iOS/MapBoxExample/Pods/MapBox/MapView/../../Resources/MapBox.bundle/TrackingDot@2x.png Map/../Map/Resources/TrackingDot@2x.png
+cCopyPNGFile /Users/evan/Development/iOS/MapBoxExample/Pods/MapBox/MapView/../../Resources/MapBox.bundle/TrackingDotHalo.png Map/../Map/Resources/TrackingDotHalo.png
+cCopyPNGFile /Users/evan/Development/iOS/MapBoxExample/Pods/MapBox/MapView/../../Resources/MapBox.bundle/TrackingDotHalo@2x.png Map/../Map/Resources/TrackingDotHalo@2x.png
+cCopyPNGFile /Users/evan/Development/iOS/MapBoxExample/Pods/MapBox/MapView/../../Resources/MapBox.bundle/TrackingHeading.png Map/../Map/Resources/TrackingHeading.png
+cCopyPNGFile /Users/evan/Development/iOS/MapBoxExample/Pods/MapBox/MapView/../../Resources/MapBox.bundle/TrackingHeading@2x.png Map/../Map/Resources/TrackingHeading@2x.png
+cCopyPNGFile /Users/evan/Development/iOS/MapBoxExample/Pods/MapBox/MapView/../../Resources/MapBox.bundle/TrackingLocation.png Map/../Map/Resources/TrackingLocation.png
+cCopyPNGFile /Users/evan/Development/iOS/MapBoxExample/Pods/MapBox/MapView/../../Resources/MapBox.bundle/TrackingLocation@2x.png Map/../Map/Resources/TrackingLocation@2x.png
+cCopyPNGFile /Users/evan/Development/iOS/MapBoxExample/Pods/MapBox/MapView/../../Resources/MapBox.bundle/HeadingAngleLarge.png Map/../Map/Resources/HeadingAngleLarge.png
+cCopyPNGFile /Users/evan/Development/iOS/MapBoxExample/Pods/MapBox/MapView/../../Resources/MapBox.bundle/HeadingAngleLarge@2x.png Map/../Map/Resources/HeadingAngleLarge@2x.png
+cCopyPNGFile /Users/evan/Development/iOS/MapBoxExample/Pods/MapBox/MapView/../../Resources/MapBox.bundle/HeadingAngleMedium.png Map/../Map/Resources/HeadingAngleMedium.png
+cCopyPNGFile /Users/evan/Development/iOS/MapBoxExample/Pods/MapBox/MapView/../../Resources/MapBox.bundle/HeadingAngleMedium@2x.png Map/../Map/Resources/HeadingAngleMedium@2x.png
+cTouch /Users/evan/Development/iOS/MapBoxExample/Pods/MapBox/MapView/../../Resources/MapBox.bundle
+
+N/Users/evan/Development/iOS/MapBoxExample/Pods/MapBox/MapView/../../Resources/MapBox.bundle
+t2
+s0
+
+N/Users/evan/Development/iOS/MapBoxExample/Pods/MapBox/MapView/../../Resources/MapBox.bundle/HeadingAngleLarge.png
+t2
+s0
+
+N/Users/evan/Development/iOS/MapBoxExample/Pods/MapBox/MapView/../../Resources/MapBox.bundle/HeadingAngleLarge@2x.png
+t2
+s0
+
+N/Users/evan/Development/iOS/MapBoxExample/Pods/MapBox/MapView/../../Resources/MapBox.bundle/HeadingAngleMedium.png
+t2
+s0
+
+N/Users/evan/Development/iOS/MapBoxExample/Pods/MapBox/MapView/../../Resources/MapBox.bundle/HeadingAngleMedium@2x.png
+t2
+s0
+
+N/Users/evan/Development/iOS/MapBoxExample/Pods/MapBox/MapView/../../Resources/MapBox.bundle/HeadingAngleSmall.png
+t2
+s0
+
+N/Users/evan/Development/iOS/MapBoxExample/Pods/MapBox/MapView/../../Resources/MapBox.bundle/HeadingAngleSmall@2x.png
+t2
+s0
+
+N/Users/evan/Development/iOS/MapBoxExample/Pods/MapBox/MapView/../../Resources/MapBox.bundle/LoadingTile.png
+t2
+s0
+
+N/Users/evan/Development/iOS/MapBoxExample/Pods/MapBox/MapView/../../Resources/MapBox.bundle/LoadingTileZoom.png
+t2
+s0
+
+N/Users/evan/Development/iOS/MapBoxExample/Pods/MapBox/MapView/../../Resources/MapBox.bundle/TrackingDot.png
+t2
+s0
+
+N/Users/evan/Development/iOS/MapBoxExample/Pods/MapBox/MapView/../../Resources/MapBox.bundle/TrackingDot@2x.png
+t2
+s0
+
+N/Users/evan/Development/iOS/MapBoxExample/Pods/MapBox/MapView/../../Resources/MapBox.bundle/TrackingDotHalo.png
+t2
+s0
+
+N/Users/evan/Development/iOS/MapBoxExample/Pods/MapBox/MapView/../../Resources/MapBox.bundle/TrackingDotHalo@2x.png
+t2
+s0
+
+N/Users/evan/Development/iOS/MapBoxExample/Pods/MapBox/MapView/../../Resources/MapBox.bundle/TrackingHeading.png
+t2
+s0
+
+N/Users/evan/Development/iOS/MapBoxExample/Pods/MapBox/MapView/../../Resources/MapBox.bundle/TrackingHeading@2x.png
+t2
+s0
+
+N/Users/evan/Development/iOS/MapBoxExample/Pods/MapBox/MapView/../../Resources/MapBox.bundle/TrackingLocation.png
+t2
+s0
+
+N/Users/evan/Development/iOS/MapBoxExample/Pods/MapBox/MapView/../../Resources/MapBox.bundle/TrackingLocation@2x.png
+t2
+s0
+
+N/Users/evan/Development/iOS/MapBoxExample/Pods/MapBox/MapView/../../Resources/MapBox.bundle/mapbox.png
+t2
+s0
+
+N/Users/evan/Development/iOS/MapBoxExample/Pods/MapBox/MapView/../../Resources/MapBox.bundle/mapbox@2x.png
+t2
+s0
+
+N/Users/evan/Development/iOS/MapBoxExample/Pods/MapBox/MapView/Map/../Map/Resources/HeadingAngleLarge.png
+c000000005139CC6F0000000000000E2C
+t1362742383
+s3628
+
+N/Users/evan/Development/iOS/MapBoxExample/Pods/MapBox/MapView/Map/../Map/Resources/HeadingAngleLarge@2x.png
+c000000005139CC6F0000000000002784
+t1362742383
+s10116
+
+N/Users/evan/Development/iOS/MapBoxExample/Pods/MapBox/MapView/Map/../Map/Resources/HeadingAngleMedium.png
+c000000005139CC6F00000000000009DA
+t1362742383
+s2522
+
+N/Users/evan/Development/iOS/MapBoxExample/Pods/MapBox/MapView/Map/../Map/Resources/HeadingAngleMedium@2x.png
+c000000005139CC6F0000000000001AA5
+t1362742383
+s6821
+
+N/Users/evan/Development/iOS/MapBoxExample/Pods/MapBox/MapView/Map/../Map/Resources/HeadingAngleSmall.png
+c000000005139CC6F0000000000000AA7
+t1362742383
+s2727
+
+N/Users/evan/Development/iOS/MapBoxExample/Pods/MapBox/MapView/Map/../Map/Resources/HeadingAngleSmall@2x.png
+c000000005139CC6F0000000000001F1F
+t1362742383
+s7967
+
+N/Users/evan/Development/iOS/MapBoxExample/Pods/MapBox/MapView/Map/../Map/Resources/LoadingTile.png
+c000000005139CC6F0000000000000B44
+t1362742383
+s2884
+
+N/Users/evan/Development/iOS/MapBoxExample/Pods/MapBox/MapView/Map/../Map/Resources/LoadingTileZoom.png
+c000000005139CC6F00000000000002D3
+t1362742383
+s723
+
+N/Users/evan/Development/iOS/MapBoxExample/Pods/MapBox/MapView/Map/../Map/Resources/TrackingDot.png
+c000000005139CC6F000000000000035C
+t1362742383
+s860
+
+N/Users/evan/Development/iOS/MapBoxExample/Pods/MapBox/MapView/Map/../Map/Resources/TrackingDot@2x.png
+c000000005139CC6F0000000000000953
+t1362742383
+s2387
+
+N/Users/evan/Development/iOS/MapBoxExample/Pods/MapBox/MapView/Map/../Map/Resources/TrackingDotHalo.png
+c000000005139CC6F0000000000002F07
+t1362742383
+s12039
+
+N/Users/evan/Development/iOS/MapBoxExample/Pods/MapBox/MapView/Map/../Map/Resources/TrackingDotHalo@2x.png
+c000000005139CC6F0000000000006991
+t1362742383
+s27025
+
+N/Users/evan/Development/iOS/MapBoxExample/Pods/MapBox/MapView/Map/../Map/Resources/TrackingHeading.png
+c000000005139CC6F00000000000002B3
+t1362742383
+s691
+
+N/Users/evan/Development/iOS/MapBoxExample/Pods/MapBox/MapView/Map/../Map/Resources/TrackingHeading@2x.png
+c000000005139CC6F0000000000000664
+t1362742383
+s1636
+
+N/Users/evan/Development/iOS/MapBoxExample/Pods/MapBox/MapView/Map/../Map/Resources/TrackingLocation.png
+c000000005139CC6F000000000000019E
+t1362742383
+s414
+
+N/Users/evan/Development/iOS/MapBoxExample/Pods/MapBox/MapView/Map/../Map/Resources/TrackingLocation@2x.png
+c000000005139CC6F0000000000000358
+t1362742383
+s856
+
+N/Users/evan/Development/iOS/MapBoxExample/Pods/MapBox/MapView/Map/../Map/Resources/mapbox.png
+c000000005139CC6F000000000000087B
+t1362742383
+s2171
+
+N/Users/evan/Development/iOS/MapBoxExample/Pods/MapBox/MapView/Map/../Map/Resources/mapbox@2x.png
+c000000005139CC6F00000000000013E1
+t1362742383
+s5089
+
+CCheck dependencies
+r0
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependenciese3e06ef103eab641^d07f77f103eab641^---0#1#0#--18"Check dependencies36"A56E931D-D449-4C8D-B4D4-17B44A55802F-
+
+CCopyPNGFile /Users/evan/Development/iOS/MapBoxExample/Pods/MapBox/MapView/../../Resources/MapBox.bundle/HeadingAngleLarge.png Map/../Map/Resources/HeadingAngleLarge.png
+s384435185.752953
+e384435185.807068
+r1
+xCopyPNGFile
+x/Users/evan/Development/iOS/MapBoxExample/Pods/MapBox/MapView/../../Resources/MapBox.bundle/HeadingAngleLarge.png
+xMap/../Map/Resources/HeadingAngleLarge.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection106"CopyPNGFile ../../Resources/MapBox.bundle/HeadingAngleLarge.png Map/../Map/Resources/HeadingAngleLarge.png2afdc0f103eab641^1cb5cef103eab641^---0#0#0#-19%DVTDocumentLocation2@120"file://localhost/Users/evan/Development/iOS/MapBoxExample/Pods/MapBox/MapView/Map/../Map/Resources/HeadingAngleLarge.png0000000000000000^1022"CopyPNGFile ../../Resources/MapBox.bundle/HeadingAngleLarge.png Map/../Map/Resources/HeadingAngleLarge.png    cd /Users/evan/Development/iOS/MapBoxExample/Pods/MapBox/MapView    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/evan/bin:/Users/evan/Development/adt-bundle-mac/sdk/platform-tools:/Users/evan/Development/adt-bundle-mac/sdk/tools:/Users/evan/.rvm/gems/ruby-1.9.3-p125/bin:/Users/evan/.rvm/gems/ruby-1.9.3-p125@global/bin:/Users/evan/.rvm/rubies/ruby-1.9.3-p125/bin:/Users/evan/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/local/go/bin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress "" /Users/evan/Development/iOS/MapBoxExample/Pods/MapBox/MapView/Map/../Map/Resources/HeadingAngleLarge.png /Users/evan/Development/iOS/MapBoxExample/Pods/MapBox/MapView/../../Resources/MapBox.bundle/HeadingAngleLarge.png36"F9CE2F2F-3974-4A5F-855F-84F78D16C371-
+
+CCopyPNGFile /Users/evan/Development/iOS/MapBoxExample/Pods/MapBox/MapView/../../Resources/MapBox.bundle/HeadingAngleLarge@2x.png Map/../Map/Resources/HeadingAngleLarge@2x.png
+s384435185.765197
+e384435185.823656
+r1
+xCopyPNGFile
+x/Users/evan/Development/iOS/MapBoxExample/Pods/MapBox/MapView/../../Resources/MapBox.bundle/HeadingAngleLarge@2x.png
+xMap/../Map/Resources/HeadingAngleLarge@2x.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection112"CopyPNGFile ../../Resources/MapBox.bundle/HeadingAngleLarge@2x.png Map/../Map/Resources/HeadingAngleLarge@2x.png7b12c4f103eab641^cae2d2f103eab641^---0#0#0#-19%DVTDocumentLocation2@123"file://localhost/Users/evan/Development/iOS/MapBoxExample/Pods/MapBox/MapView/Map/../Map/Resources/HeadingAngleLarge@2x.png0000000000000000^1042"CopyPNGFile "../../Resources/MapBox.bundle/HeadingAngleLarge@2x.png" "Map/../Map/Resources/HeadingAngleLarge@2x.png"    cd /Users/evan/Development/iOS/MapBoxExample/Pods/MapBox/MapView    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/evan/bin:/Users/evan/Development/adt-bundle-mac/sdk/platform-tools:/Users/evan/Development/adt-bundle-mac/sdk/tools:/Users/evan/.rvm/gems/ruby-1.9.3-p125/bin:/Users/evan/.rvm/gems/ruby-1.9.3-p125@global/bin:/Users/evan/.rvm/rubies/ruby-1.9.3-p125/bin:/Users/evan/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/local/go/bin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress "" "/Users/evan/Development/iOS/MapBoxExample/Pods/MapBox/MapView/Map/../Map/Resources/HeadingAngleLarge@2x.png" "/Users/evan/Development/iOS/MapBoxExample/Pods/MapBox/MapView/../../Resources/MapBox.bundle/HeadingAngleLarge@2x.png"36"4212D29E-474C-4361-AB29-8A49F6C0A7FA-
+
+CCopyPNGFile /Users/evan/Development/iOS/MapBoxExample/Pods/MapBox/MapView/../../Resources/MapBox.bundle/HeadingAngleMedium.png Map/../Map/Resources/HeadingAngleMedium.png
+s384435185.789530
+e384435185.834090
+r1
+xCopyPNGFile
+x/Users/evan/Development/iOS/MapBoxExample/Pods/MapBox/MapView/../../Resources/MapBox.bundle/HeadingAngleMedium.png
+xMap/../Map/Resources/HeadingAngleMedium.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection108"CopyPNGFile ../../Resources/MapBox.bundle/HeadingAngleMedium.png Map/../Map/Resources/HeadingAngleMedium.pngd449caf103eab641^849ad5f103eab641^---0#0#0#-19%DVTDocumentLocation2@121"file://localhost/Users/evan/Development/iOS/MapBoxExample/Pods/MapBox/MapView/Map/../Map/Resources/HeadingAngleMedium.png0000000000000000^1026"CopyPNGFile ../../Resources/MapBox.bundle/HeadingAngleMedium.png Map/../Map/Resources/HeadingAngleMedium.png    cd /Users/evan/Development/iOS/MapBoxExample/Pods/MapBox/MapView    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/evan/bin:/Users/evan/Development/adt-bundle-mac/sdk/platform-tools:/Users/evan/Development/adt-bundle-mac/sdk/tools:/Users/evan/.rvm/gems/ruby-1.9.3-p125/bin:/Users/evan/.rvm/gems/ruby-1.9.3-p125@global/bin:/Users/evan/.rvm/rubies/ruby-1.9.3-p125/bin:/Users/evan/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/local/go/bin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress "" /Users/evan/Development/iOS/MapBoxExample/Pods/MapBox/MapView/Map/../Map/Resources/HeadingAngleMedium.png /Users/evan/Development/iOS/MapBoxExample/Pods/MapBox/MapView/../../Resources/MapBox.bundle/HeadingAngleMedium.png36"A475D4AB-E9A4-4EC0-8D2D-A8C58DDC84B1-
+
+CCopyPNGFile /Users/evan/Development/iOS/MapBoxExample/Pods/MapBox/MapView/../../Resources/MapBox.bundle/HeadingAngleMedium@2x.png Map/../Map/Resources/HeadingAngleMedium@2x.png
+s384435185.801894
+e384435185.844247
+r1
+xCopyPNGFile
+x/Users/evan/Development/iOS/MapBoxExample/Pods/MapBox/MapView/../../Resources/MapBox.bundle/HeadingAngleMedium@2x.png
+xMap/../Map/Resources/HeadingAngleMedium@2x.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection114"CopyPNGFile ../../Resources/MapBox.bundle/HeadingAngleMedium@2x.png Map/../Map/Resources/HeadingAngleMedium@2x.png677ecdf103eab641^eb1fd8f103eab641^---0#0#0#-19%DVTDocumentLocation2@124"file://localhost/Users/evan/Development/iOS/MapBoxExample/Pods/MapBox/MapView/Map/../Map/Resources/HeadingAngleMedium@2x.png0000000000000000^1046"CopyPNGFile "../../Resources/MapBox.bundle/HeadingAngleMedium@2x.png" "Map/../Map/Resources/HeadingAngleMedium@2x.png"    cd /Users/evan/Development/iOS/MapBoxExample/Pods/MapBox/MapView    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/evan/bin:/Users/evan/Development/adt-bundle-mac/sdk/platform-tools:/Users/evan/Development/adt-bundle-mac/sdk/tools:/Users/evan/.rvm/gems/ruby-1.9.3-p125/bin:/Users/evan/.rvm/gems/ruby-1.9.3-p125@global/bin:/Users/evan/.rvm/rubies/ruby-1.9.3-p125/bin:/Users/evan/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/local/go/bin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress "" "/Users/evan/Development/iOS/MapBoxExample/Pods/MapBox/MapView/Map/../Map/Resources/HeadingAngleMedium@2x.png" "/Users/evan/Development/iOS/MapBoxExample/Pods/MapBox/MapView/../../Resources/MapBox.bundle/HeadingAngleMedium@2x.png"36"9028AC57-0957-4362-94E3-FF0FA54C07FA-
+
+CCopyPNGFile /Users/evan/Development/iOS/MapBoxExample/Pods/MapBox/MapView/../../Resources/MapBox.bundle/HeadingAngleSmall.png Map/../Map/Resources/HeadingAngleSmall.png
+s384435185.477847
+e384435185.635115
+r1
+xCopyPNGFile
+x/Users/evan/Development/iOS/MapBoxExample/Pods/MapBox/MapView/../../Resources/MapBox.bundle/HeadingAngleSmall.png
+xMap/../Map/Resources/HeadingAngleSmall.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection106"CopyPNGFile ../../Resources/MapBox.bundle/HeadingAngleSmall.png Map/../Map/Resources/HeadingAngleSmall.png6aa37af103eab641^2c9ea2f103eab641^---0#0#0#-19%DVTDocumentLocation2@120"file://localhost/Users/evan/Development/iOS/MapBoxExample/Pods/MapBox/MapView/Map/../Map/Resources/HeadingAngleSmall.png0000000000000000^1022"CopyPNGFile ../../Resources/MapBox.bundle/HeadingAngleSmall.png Map/../Map/Resources/HeadingAngleSmall.png    cd /Users/evan/Development/iOS/MapBoxExample/Pods/MapBox/MapView    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/evan/bin:/Users/evan/Development/adt-bundle-mac/sdk/platform-tools:/Users/evan/Development/adt-bundle-mac/sdk/tools:/Users/evan/.rvm/gems/ruby-1.9.3-p125/bin:/Users/evan/.rvm/gems/ruby-1.9.3-p125@global/bin:/Users/evan/.rvm/rubies/ruby-1.9.3-p125/bin:/Users/evan/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/local/go/bin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress "" /Users/evan/Development/iOS/MapBoxExample/Pods/MapBox/MapView/Map/../Map/Resources/HeadingAngleSmall.png /Users/evan/Development/iOS/MapBoxExample/Pods/MapBox/MapView/../../Resources/MapBox.bundle/HeadingAngleSmall.png36"131A93BB-9D4A-41F4-B52C-1BAA667D8D7F-
+
+CCopyPNGFile /Users/evan/Development/iOS/MapBoxExample/Pods/MapBox/MapView/../../Resources/MapBox.bundle/HeadingAngleSmall@2x.png Map/../Map/Resources/HeadingAngleSmall@2x.png
+s384435185.479548
+e384435185.644291
+r1
+xCopyPNGFile
+x/Users/evan/Development/iOS/MapBoxExample/Pods/MapBox/MapView/../../Resources/MapBox.bundle/HeadingAngleSmall@2x.png
+xMap/../Map/Resources/HeadingAngleSmall@2x.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection112"CopyPNGFile ../../Resources/MapBox.bundle/HeadingAngleSmall@2x.png Map/../Map/Resources/HeadingAngleSmall@2x.png00e67af103eab641^52f0a4f103eab641^---0#0#0#-19%DVTDocumentLocation2@123"file://localhost/Users/evan/Development/iOS/MapBoxExample/Pods/MapBox/MapView/Map/../Map/Resources/HeadingAngleSmall@2x.png0000000000000000^1042"CopyPNGFile "../../Resources/MapBox.bundle/HeadingAngleSmall@2x.png" "Map/../Map/Resources/HeadingAngleSmall@2x.png"    cd /Users/evan/Development/iOS/MapBoxExample/Pods/MapBox/MapView    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/evan/bin:/Users/evan/Development/adt-bundle-mac/sdk/platform-tools:/Users/evan/Development/adt-bundle-mac/sdk/tools:/Users/evan/.rvm/gems/ruby-1.9.3-p125/bin:/Users/evan/.rvm/gems/ruby-1.9.3-p125@global/bin:/Users/evan/.rvm/rubies/ruby-1.9.3-p125/bin:/Users/evan/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/local/go/bin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress "" "/Users/evan/Development/iOS/MapBoxExample/Pods/MapBox/MapView/Map/../Map/Resources/HeadingAngleSmall@2x.png" "/Users/evan/Development/iOS/MapBoxExample/Pods/MapBox/MapView/../../Resources/MapBox.bundle/HeadingAngleSmall@2x.png"36"B5AE23B1-E3C4-414E-9723-33ADEB09E5A7-
+
+CCopyPNGFile /Users/evan/Development/iOS/MapBoxExample/Pods/MapBox/MapView/../../Resources/MapBox.bundle/LoadingTile.png Map/../Map/Resources/LoadingTile.png
+s384435185.636657
+e384435185.697938
+r1
+xCopyPNGFile
+x/Users/evan/Development/iOS/MapBoxExample/Pods/MapBox/MapView/../../Resources/MapBox.bundle/LoadingTile.png
+xMap/../Map/Resources/LoadingTile.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection94"CopyPNGFile ../../Resources/MapBox.bundle/LoadingTile.png Map/../Map/Resources/LoadingTile.png4f21a3f103eab641^54acb2f103eab641^---0#0#0#-19%DVTDocumentLocation2@114"file://localhost/Users/evan/Development/iOS/MapBoxExample/Pods/MapBox/MapView/Map/../Map/Resources/LoadingTile.png0000000000000000^998"CopyPNGFile ../../Resources/MapBox.bundle/LoadingTile.png Map/../Map/Resources/LoadingTile.png    cd /Users/evan/Development/iOS/MapBoxExample/Pods/MapBox/MapView    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/evan/bin:/Users/evan/Development/adt-bundle-mac/sdk/platform-tools:/Users/evan/Development/adt-bundle-mac/sdk/tools:/Users/evan/.rvm/gems/ruby-1.9.3-p125/bin:/Users/evan/.rvm/gems/ruby-1.9.3-p125@global/bin:/Users/evan/.rvm/rubies/ruby-1.9.3-p125/bin:/Users/evan/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/local/go/bin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress "" /Users/evan/Development/iOS/MapBoxExample/Pods/MapBox/MapView/Map/../Map/Resources/LoadingTile.png /Users/evan/Development/iOS/MapBoxExample/Pods/MapBox/MapView/../../Resources/MapBox.bundle/LoadingTile.png36"B2555C5F-A73B-482D-ACFF-8D1A480A3C1D-
+
+CCopyPNGFile /Users/evan/Development/iOS/MapBoxExample/Pods/MapBox/MapView/../../Resources/MapBox.bundle/LoadingTileZoom.png Map/../Map/Resources/LoadingTileZoom.png
+s384435185.636647
+e384435185.681171
+r1
+xCopyPNGFile
+x/Users/evan/Development/iOS/MapBoxExample/Pods/MapBox/MapView/../../Resources/MapBox.bundle/LoadingTileZoom.png
+xMap/../Map/Resources/LoadingTileZoom.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection102"CopyPNGFile ../../Resources/MapBox.bundle/LoadingTileZoom.png Map/../Map/Resources/LoadingTileZoom.png4f21a3f103eab641^ea7aaef103eab641^---0#0#0#-19%DVTDocumentLocation2@118"file://localhost/Users/evan/Development/iOS/MapBoxExample/Pods/MapBox/MapView/Map/../Map/Resources/LoadingTileZoom.png0000000000000000^1014"CopyPNGFile ../../Resources/MapBox.bundle/LoadingTileZoom.png Map/../Map/Resources/LoadingTileZoom.png    cd /Users/evan/Development/iOS/MapBoxExample/Pods/MapBox/MapView    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/evan/bin:/Users/evan/Development/adt-bundle-mac/sdk/platform-tools:/Users/evan/Development/adt-bundle-mac/sdk/tools:/Users/evan/.rvm/gems/ruby-1.9.3-p125/bin:/Users/evan/.rvm/gems/ruby-1.9.3-p125@global/bin:/Users/evan/.rvm/rubies/ruby-1.9.3-p125/bin:/Users/evan/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/local/go/bin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress "" /Users/evan/Development/iOS/MapBoxExample/Pods/MapBox/MapView/Map/../Map/Resources/LoadingTileZoom.png /Users/evan/Development/iOS/MapBoxExample/Pods/MapBox/MapView/../../Resources/MapBox.bundle/LoadingTileZoom.png36"FA17A26A-6DA6-42AD-8F20-DD3F99776C0F-
+
+CCopyPNGFile /Users/evan/Development/iOS/MapBoxExample/Pods/MapBox/MapView/../../Resources/MapBox.bundle/TrackingDot.png Map/../Map/Resources/TrackingDot.png
+s384435185.643276
+e384435185.694933
+r1
+xCopyPNGFile
+x/Users/evan/Development/iOS/MapBoxExample/Pods/MapBox/MapView/../../Resources/MapBox.bundle/TrackingDot.png
+xMap/../Map/Resources/TrackingDot.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection94"CopyPNGFile ../../Resources/MapBox.bundle/TrackingDot.png Map/../Map/Resources/TrackingDot.png28d7a4f103eab641^65feb1f103eab641^---0#0#0#-19%DVTDocumentLocation2@114"file://localhost/Users/evan/Development/iOS/MapBoxExample/Pods/MapBox/MapView/Map/../Map/Resources/TrackingDot.png0000000000000000^998"CopyPNGFile ../../Resources/MapBox.bundle/TrackingDot.png Map/../Map/Resources/TrackingDot.png    cd /Users/evan/Development/iOS/MapBoxExample/Pods/MapBox/MapView    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/evan/bin:/Users/evan/Development/adt-bundle-mac/sdk/platform-tools:/Users/evan/Development/adt-bundle-mac/sdk/tools:/Users/evan/.rvm/gems/ruby-1.9.3-p125/bin:/Users/evan/.rvm/gems/ruby-1.9.3-p125@global/bin:/Users/evan/.rvm/rubies/ruby-1.9.3-p125/bin:/Users/evan/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/local/go/bin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress "" /Users/evan/Development/iOS/MapBoxExample/Pods/MapBox/MapView/Map/../Map/Resources/TrackingDot.png /Users/evan/Development/iOS/MapBoxExample/Pods/MapBox/MapView/../../Resources/MapBox.bundle/TrackingDot.png36"291F9034-C1EB-4902-B073-069090830373-
+
+CCopyPNGFile /Users/evan/Development/iOS/MapBoxExample/Pods/MapBox/MapView/../../Resources/MapBox.bundle/TrackingDot@2x.png Map/../Map/Resources/TrackingDot@2x.png
+s384435185.645522
+e384435185.697023
+r1
+xCopyPNGFile
+x/Users/evan/Development/iOS/MapBoxExample/Pods/MapBox/MapView/../../Resources/MapBox.bundle/TrackingDot@2x.png
+xMap/../Map/Resources/TrackingDot@2x.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection100"CopyPNGFile ../../Resources/MapBox.bundle/TrackingDot@2x.png Map/../Map/Resources/TrackingDot@2x.png8274a5f103eab641^5f7bb2f103eab641^---0#0#0#-19%DVTDocumentLocation2@117"file://localhost/Users/evan/Development/iOS/MapBoxExample/Pods/MapBox/MapView/Map/../Map/Resources/TrackingDot@2x.png0000000000000000^1018"CopyPNGFile "../../Resources/MapBox.bundle/TrackingDot@2x.png" "Map/../Map/Resources/TrackingDot@2x.png"    cd /Users/evan/Development/iOS/MapBoxExample/Pods/MapBox/MapView    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/evan/bin:/Users/evan/Development/adt-bundle-mac/sdk/platform-tools:/Users/evan/Development/adt-bundle-mac/sdk/tools:/Users/evan/.rvm/gems/ruby-1.9.3-p125/bin:/Users/evan/.rvm/gems/ruby-1.9.3-p125@global/bin:/Users/evan/.rvm/rubies/ruby-1.9.3-p125/bin:/Users/evan/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/local/go/bin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress "" "/Users/evan/Development/iOS/MapBoxExample/Pods/MapBox/MapView/Map/../Map/Resources/TrackingDot@2x.png" "/Users/evan/Development/iOS/MapBoxExample/Pods/MapBox/MapView/../../Resources/MapBox.bundle/TrackingDot@2x.png"36"3E3E52FC-290D-4E73-975F-A2AB19691FCC-
+
+CCopyPNGFile /Users/evan/Development/iOS/MapBoxExample/Pods/MapBox/MapView/../../Resources/MapBox.bundle/TrackingDotHalo.png Map/../Map/Resources/TrackingDotHalo.png
+s384435185.684505
+e384435185.740979
+r1
+xCopyPNGFile
+x/Users/evan/Development/iOS/MapBoxExample/Pods/MapBox/MapView/../../Resources/MapBox.bundle/TrackingDotHalo.png
+xMap/../Map/Resources/TrackingDotHalo.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection102"CopyPNGFile ../../Resources/MapBox.bundle/TrackingDotHalo.png Map/../Map/Resources/TrackingDotHalo.png8865aff103eab641^47b0bdf103eab641^---0#0#0#-19%DVTDocumentLocation2@118"file://localhost/Users/evan/Development/iOS/MapBoxExample/Pods/MapBox/MapView/Map/../Map/Resources/TrackingDotHalo.png0000000000000000^1014"CopyPNGFile ../../Resources/MapBox.bundle/TrackingDotHalo.png Map/../Map/Resources/TrackingDotHalo.png    cd /Users/evan/Development/iOS/MapBoxExample/Pods/MapBox/MapView    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/evan/bin:/Users/evan/Development/adt-bundle-mac/sdk/platform-tools:/Users/evan/Development/adt-bundle-mac/sdk/tools:/Users/evan/.rvm/gems/ruby-1.9.3-p125/bin:/Users/evan/.rvm/gems/ruby-1.9.3-p125@global/bin:/Users/evan/.rvm/rubies/ruby-1.9.3-p125/bin:/Users/evan/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/local/go/bin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress "" /Users/evan/Development/iOS/MapBoxExample/Pods/MapBox/MapView/Map/../Map/Resources/TrackingDotHalo.png /Users/evan/Development/iOS/MapBoxExample/Pods/MapBox/MapView/../../Resources/MapBox.bundle/TrackingDotHalo.png36"5BFC423D-B809-41F2-AE8B-CB82ABF24205-
+
+CCopyPNGFile /Users/evan/Development/iOS/MapBoxExample/Pods/MapBox/MapView/../../Resources/MapBox.bundle/TrackingDotHalo@2x.png Map/../Map/Resources/TrackingDotHalo@2x.png
+s384435185.696262
+e384435185.763844
+r1
+xCopyPNGFile
+x/Users/evan/Development/iOS/MapBoxExample/Pods/MapBox/MapView/../../Resources/MapBox.bundle/TrackingDotHalo@2x.png
+xMap/../Map/Resources/TrackingDotHalo@2x.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection108"CopyPNGFile ../../Resources/MapBox.bundle/TrackingDotHalo@2x.png Map/../Map/Resources/TrackingDotHalo@2x.png5d70b2f103eab641^9a97c3f103eab641^---0#0#0#-19%DVTDocumentLocation2@121"file://localhost/Users/evan/Development/iOS/MapBoxExample/Pods/MapBox/MapView/Map/../Map/Resources/TrackingDotHalo@2x.png0000000000000000^1034"CopyPNGFile "../../Resources/MapBox.bundle/TrackingDotHalo@2x.png" "Map/../Map/Resources/TrackingDotHalo@2x.png"    cd /Users/evan/Development/iOS/MapBoxExample/Pods/MapBox/MapView    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/evan/bin:/Users/evan/Development/adt-bundle-mac/sdk/platform-tools:/Users/evan/Development/adt-bundle-mac/sdk/tools:/Users/evan/.rvm/gems/ruby-1.9.3-p125/bin:/Users/evan/.rvm/gems/ruby-1.9.3-p125@global/bin:/Users/evan/.rvm/rubies/ruby-1.9.3-p125/bin:/Users/evan/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/local/go/bin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress "" "/Users/evan/Development/iOS/MapBoxExample/Pods/MapBox/MapView/Map/../Map/Resources/TrackingDotHalo@2x.png" "/Users/evan/Development/iOS/MapBoxExample/Pods/MapBox/MapView/../../Resources/MapBox.bundle/TrackingDotHalo@2x.png"36"B3A29E40-8DD0-4EB2-B8A5-A4BE06EAA335-
+
+CCopyPNGFile /Users/evan/Development/iOS/MapBoxExample/Pods/MapBox/MapView/../../Resources/MapBox.bundle/TrackingHeading.png Map/../Map/Resources/TrackingHeading.png
+s384435185.698252
+e384435185.748428
+r1
+xCopyPNGFile
+x/Users/evan/Development/iOS/MapBoxExample/Pods/MapBox/MapView/../../Resources/MapBox.bundle/TrackingHeading.png
+xMap/../Map/Resources/TrackingHeading.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection102"CopyPNGFile ../../Resources/MapBox.bundle/TrackingHeading.png Map/../Map/Resources/TrackingHeading.png9aedb2f103eab641^59a6bff103eab641^---0#0#0#-19%DVTDocumentLocation2@118"file://localhost/Users/evan/Development/iOS/MapBoxExample/Pods/MapBox/MapView/Map/../Map/Resources/TrackingHeading.png0000000000000000^1014"CopyPNGFile ../../Resources/MapBox.bundle/TrackingHeading.png Map/../Map/Resources/TrackingHeading.png    cd /Users/evan/Development/iOS/MapBoxExample/Pods/MapBox/MapView    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/evan/bin:/Users/evan/Development/adt-bundle-mac/sdk/platform-tools:/Users/evan/Development/adt-bundle-mac/sdk/tools:/Users/evan/.rvm/gems/ruby-1.9.3-p125/bin:/Users/evan/.rvm/gems/ruby-1.9.3-p125@global/bin:/Users/evan/.rvm/rubies/ruby-1.9.3-p125/bin:/Users/evan/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/local/go/bin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress "" /Users/evan/Development/iOS/MapBoxExample/Pods/MapBox/MapView/Map/../Map/Resources/TrackingHeading.png /Users/evan/Development/iOS/MapBoxExample/Pods/MapBox/MapView/../../Resources/MapBox.bundle/TrackingHeading.png36"F3F81C5D-E713-4C55-A934-86F555CAC554-
+
+CCopyPNGFile /Users/evan/Development/iOS/MapBoxExample/Pods/MapBox/MapView/../../Resources/MapBox.bundle/TrackingHeading@2x.png Map/../Map/Resources/TrackingHeading@2x.png
+s384435185.698268
+e384435185.751519
+r1
+xCopyPNGFile
+x/Users/evan/Development/iOS/MapBoxExample/Pods/MapBox/MapView/../../Resources/MapBox.bundle/TrackingHeading@2x.png
+xMap/../Map/Resources/TrackingHeading@2x.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection108"CopyPNGFile ../../Resources/MapBox.bundle/TrackingHeading@2x.png Map/../Map/Resources/TrackingHeading@2x.pngd9eab2f103eab641^696fc0f103eab641^---0#0#0#-19%DVTDocumentLocation2@121"file://localhost/Users/evan/Development/iOS/MapBoxExample/Pods/MapBox/MapView/Map/../Map/Resources/TrackingHeading@2x.png0000000000000000^1034"CopyPNGFile "../../Resources/MapBox.bundle/TrackingHeading@2x.png" "Map/../Map/Resources/TrackingHeading@2x.png"    cd /Users/evan/Development/iOS/MapBoxExample/Pods/MapBox/MapView    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/evan/bin:/Users/evan/Development/adt-bundle-mac/sdk/platform-tools:/Users/evan/Development/adt-bundle-mac/sdk/tools:/Users/evan/.rvm/gems/ruby-1.9.3-p125/bin:/Users/evan/.rvm/gems/ruby-1.9.3-p125@global/bin:/Users/evan/.rvm/rubies/ruby-1.9.3-p125/bin:/Users/evan/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/local/go/bin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress "" "/Users/evan/Development/iOS/MapBoxExample/Pods/MapBox/MapView/Map/../Map/Resources/TrackingHeading@2x.png" "/Users/evan/Development/iOS/MapBoxExample/Pods/MapBox/MapView/../../Resources/MapBox.bundle/TrackingHeading@2x.png"36"57B388F0-15EC-45E4-B60C-5CC5A6300C33-
+
+CCopyPNGFile /Users/evan/Development/iOS/MapBoxExample/Pods/MapBox/MapView/../../Resources/MapBox.bundle/TrackingLocation.png Map/../Map/Resources/TrackingLocation.png
+s384435185.742423
+e384435185.788237
+r1
+xCopyPNGFile
+x/Users/evan/Development/iOS/MapBoxExample/Pods/MapBox/MapView/../../Resources/MapBox.bundle/TrackingLocation.png
+xMap/../Map/Resources/TrackingLocation.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection104"CopyPNGFile ../../Resources/MapBox.bundle/TrackingLocation.png Map/../Map/Resources/TrackingLocation.pngd236bef103eab641^32e3c9f103eab641^---0#0#0#-19%DVTDocumentLocation2@119"file://localhost/Users/evan/Development/iOS/MapBoxExample/Pods/MapBox/MapView/Map/../Map/Resources/TrackingLocation.png0000000000000000^1018"CopyPNGFile ../../Resources/MapBox.bundle/TrackingLocation.png Map/../Map/Resources/TrackingLocation.png    cd /Users/evan/Development/iOS/MapBoxExample/Pods/MapBox/MapView    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/evan/bin:/Users/evan/Development/adt-bundle-mac/sdk/platform-tools:/Users/evan/Development/adt-bundle-mac/sdk/tools:/Users/evan/.rvm/gems/ruby-1.9.3-p125/bin:/Users/evan/.rvm/gems/ruby-1.9.3-p125@global/bin:/Users/evan/.rvm/rubies/ruby-1.9.3-p125/bin:/Users/evan/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/local/go/bin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress "" /Users/evan/Development/iOS/MapBoxExample/Pods/MapBox/MapView/Map/../Map/Resources/TrackingLocation.png /Users/evan/Development/iOS/MapBoxExample/Pods/MapBox/MapView/../../Resources/MapBox.bundle/TrackingLocation.png36"BC413B3A-46DD-4882-9935-36719EE068FE-
+
+CCopyPNGFile /Users/evan/Development/iOS/MapBoxExample/Pods/MapBox/MapView/../../Resources/MapBox.bundle/TrackingLocation@2x.png Map/../Map/Resources/TrackingLocation@2x.png
+s384435185.750055
+e384435185.800508
+r1
+xCopyPNGFile
+x/Users/evan/Development/iOS/MapBoxExample/Pods/MapBox/MapView/../../Resources/MapBox.bundle/TrackingLocation@2x.png
+xMap/../Map/Resources/TrackingLocation@2x.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection110"CopyPNGFile ../../Resources/MapBox.bundle/TrackingLocation@2x.png Map/../Map/Resources/TrackingLocation@2x.pngcc45c0f103eab641^5ef1ccf103eab641^---0#0#0#-19%DVTDocumentLocation2@122"file://localhost/Users/evan/Development/iOS/MapBoxExample/Pods/MapBox/MapView/Map/../Map/Resources/TrackingLocation@2x.png0000000000000000^1038"CopyPNGFile "../../Resources/MapBox.bundle/TrackingLocation@2x.png" "Map/../Map/Resources/TrackingLocation@2x.png"    cd /Users/evan/Development/iOS/MapBoxExample/Pods/MapBox/MapView    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/evan/bin:/Users/evan/Development/adt-bundle-mac/sdk/platform-tools:/Users/evan/Development/adt-bundle-mac/sdk/tools:/Users/evan/.rvm/gems/ruby-1.9.3-p125/bin:/Users/evan/.rvm/gems/ruby-1.9.3-p125@global/bin:/Users/evan/.rvm/rubies/ruby-1.9.3-p125/bin:/Users/evan/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/local/go/bin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress "" "/Users/evan/Development/iOS/MapBoxExample/Pods/MapBox/MapView/Map/../Map/Resources/TrackingLocation@2x.png" "/Users/evan/Development/iOS/MapBoxExample/Pods/MapBox/MapView/../../Resources/MapBox.bundle/TrackingLocation@2x.png"36"8BC9848C-C45D-4BA8-BA6A-DD7892ADF564-
+
+CCopyPNGFile /Users/evan/Development/iOS/MapBoxExample/Pods/MapBox/MapView/../../Resources/MapBox.bundle/mapbox.png Map/../Map/Resources/mapbox.png
+s384435185.477068
+e384435185.635936
+r1
+xCopyPNGFile
+x/Users/evan/Development/iOS/MapBoxExample/Pods/MapBox/MapView/../../Resources/MapBox.bundle/mapbox.png
+xMap/../Map/Resources/mapbox.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection84"CopyPNGFile ../../Resources/MapBox.bundle/mapbox.png Map/../Map/Resources/mapbox.pngf59e7af103eab641^dacba2f103eab641^---0#0#0#-19%DVTDocumentLocation2@109"file://localhost/Users/evan/Development/iOS/MapBoxExample/Pods/MapBox/MapView/Map/../Map/Resources/mapbox.png0000000000000000^978"CopyPNGFile ../../Resources/MapBox.bundle/mapbox.png Map/../Map/Resources/mapbox.png    cd /Users/evan/Development/iOS/MapBoxExample/Pods/MapBox/MapView    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/evan/bin:/Users/evan/Development/adt-bundle-mac/sdk/platform-tools:/Users/evan/Development/adt-bundle-mac/sdk/tools:/Users/evan/.rvm/gems/ruby-1.9.3-p125/bin:/Users/evan/.rvm/gems/ruby-1.9.3-p125@global/bin:/Users/evan/.rvm/rubies/ruby-1.9.3-p125/bin:/Users/evan/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/local/go/bin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress "" /Users/evan/Development/iOS/MapBoxExample/Pods/MapBox/MapView/Map/../Map/Resources/mapbox.png /Users/evan/Development/iOS/MapBoxExample/Pods/MapBox/MapView/../../Resources/MapBox.bundle/mapbox.png36"B8F42A95-9058-4C27-A1D4-D1BAB95EAE9A-
+
+CCopyPNGFile /Users/evan/Development/iOS/MapBoxExample/Pods/MapBox/MapView/../../Resources/MapBox.bundle/mapbox@2x.png Map/../Map/Resources/mapbox@2x.png
+s384435185.477823
+e384435185.641951
+r1
+xCopyPNGFile
+x/Users/evan/Development/iOS/MapBoxExample/Pods/MapBox/MapView/../../Resources/MapBox.bundle/mapbox@2x.png
+xMap/../Map/Resources/mapbox@2x.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection90"CopyPNGFile ../../Resources/MapBox.bundle/mapbox@2x.png Map/../Map/Resources/mapbox@2x.png02a07af103eab641^3963a4f103eab641^---0#0#0#-19%DVTDocumentLocation2@112"file://localhost/Users/evan/Development/iOS/MapBoxExample/Pods/MapBox/MapView/Map/../Map/Resources/mapbox@2x.png0000000000000000^998"CopyPNGFile "../../Resources/MapBox.bundle/mapbox@2x.png" "Map/../Map/Resources/mapbox@2x.png"    cd /Users/evan/Development/iOS/MapBoxExample/Pods/MapBox/MapView    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/evan/bin:/Users/evan/Development/adt-bundle-mac/sdk/platform-tools:/Users/evan/Development/adt-bundle-mac/sdk/tools:/Users/evan/.rvm/gems/ruby-1.9.3-p125/bin:/Users/evan/.rvm/gems/ruby-1.9.3-p125@global/bin:/Users/evan/.rvm/rubies/ruby-1.9.3-p125/bin:/Users/evan/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/local/go/bin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress "" "/Users/evan/Development/iOS/MapBoxExample/Pods/MapBox/MapView/Map/../Map/Resources/mapbox@2x.png" "/Users/evan/Development/iOS/MapBoxExample/Pods/MapBox/MapView/../../Resources/MapBox.bundle/mapbox@2x.png"36"8F14E3E4-900C-4CDC-994D-5F4F273D320C-
+
+CTouch /Users/evan/Development/iOS/MapBoxExample/Pods/MapBox/MapView/../../Resources/MapBox.bundle
+s384435185.851950
+e384435185.860205
+r1
+xTouch
+x/Users/evan/Development/iOS/MapBoxExample/Pods/MapBox/MapView/../../Resources/MapBox.bundle
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection97"Touch /Users/evan/Development/iOS/MapBoxExample/Pods/MapBox/MapView/../../Resources/MapBox.bundle4f3ddaf103eab641^df35dcf103eab641^---0#0#0#--732"Touch ../../Resources/MapBox.bundle    cd /Users/evan/Development/iOS/MapBoxExample/Pods/MapBox/MapView    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/evan/bin:/Users/evan/Development/adt-bundle-mac/sdk/platform-tools:/Users/evan/Development/adt-bundle-mac/sdk/tools:/Users/evan/.rvm/gems/ruby-1.9.3-p125/bin:/Users/evan/.rvm/gems/ruby-1.9.3-p125@global/bin:/Users/evan/.rvm/rubies/ruby-1.9.3-p125/bin:/Users/evan/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/local/go/bin"    /usr/bin/touch -c /Users/evan/Development/iOS/MapBoxExample/Pods/MapBox/MapView/../../Resources/MapBox.bundle36"7E5E3841-D8B9-4EFA-B896-9C2A1D8FFAD0-
+
